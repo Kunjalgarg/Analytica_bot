@@ -1,8 +1,8 @@
-# Ignore everything
-*
+# # Ignore everything
+# *
 
-# Allow these
-!.gitignore
-!README.md
-!chatbot/
-!chatbot/**
+# # Allow these
+# !.gitignore
+# !README.md
+# !chatbot/
+# !chatbot/**
